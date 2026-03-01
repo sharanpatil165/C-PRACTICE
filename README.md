@@ -14,3 +14,12 @@ This repository contains basic C programs I wrote while learning programming.
 ## Purpose
 
 Practice basic algorithms and C programming concepts.
+
+
+
+## How to Run
+
+Compile any program using:
+
+gcc filename.c -o program
+./program
