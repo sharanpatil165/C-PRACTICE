@@ -1,6 +1,7 @@
 # C Practice Programs
 
-This repository contains basic C programs I wrote while learning programming.
+This repository contains basic C programs I wrote while learning programming in my first year of computer science.
+Programs include factorial, prime check, binary search, matrix operations, and string manipulation.
 
 ## Programs
 
