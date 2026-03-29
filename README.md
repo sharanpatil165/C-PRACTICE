@@ -11,6 +11,7 @@ Programs include factorial, prime check, binary search, matrix operations, and s
 - matrix_addition.c — matrix addition
 - matrix_transpose.c — transpose of a matrix
 - string_reverse.c — reverse a string
+- password_checker.c — checks the strength of a password
 
 ## Purpose
 
